@@ -1,0 +1,14 @@
+package application;
+
+import java.util.Date;
+
+import entites_order.Order;
+import entitites.OrderStatus;
+
+public class Program {
+
+
+	Order order = new Order(1080, new Date(),OrderStatus.PENDING_PAYMENT);
+	Sysout
+	System.out.println();
+}

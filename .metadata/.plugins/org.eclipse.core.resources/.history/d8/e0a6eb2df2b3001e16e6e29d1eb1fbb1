@@ -1,0 +1,5 @@
+package entites_order;
+
+public class Order {
+
+}

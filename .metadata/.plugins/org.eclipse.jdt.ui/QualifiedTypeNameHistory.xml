@@ -16,7 +16,6 @@
     <fullyQualifiedTypeName name="entites_order.Order"/>
     <fullyQualifiedTypeName name="entitites.OrderStatus"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entites.Department"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="entites.HourContract"/>
@@ -24,4 +23,11 @@
     <fullyQualifiedTypeName name="entitites.Comment"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="entites.OrderItem"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entites.client"/>
+    <fullyQualifiedTypeName name="java.nio.channels.AcceptPendingException"/>
+    <fullyQualifiedTypeName name="entites.SavingsAccount"/>
+    <fullyQualifiedTypeName name="entites.Account"/>
+    <fullyQualifiedTypeName name="entites.BusinessAccount"/>
 </qualifiedTypeNameHistroy>
